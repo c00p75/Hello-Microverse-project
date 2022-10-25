@@ -12,8 +12,8 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/c00p75)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/george-m-sapenda-593750201/)
+- GitHub: [@coop75](https://github.com/c00p75)
+- LinkedIn: [@George M'sapenda](http@George M'sapendas://www.linkedin.com/in/george-m-sapenda-593750201/)
 
 
 ## 🤝 Contributing
