@@ -13,7 +13,7 @@
 👤 **Author1**
 
 - GitHub: [@coop75](https://github.com/c00p75)
-- LinkedIn: [@GeorgeMsapenda](http@George M'sapendas://www.linkedin.com/in/george-m-sapenda-593750201/)
+- LinkedIn: [GeorgeMsapenda](http@George M'sapendas://www.linkedin.com/in/george-m-sapenda-593750201/)
 
 
 ## 🤝 Contributing
